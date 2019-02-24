@@ -1,0 +1,10 @@
+/target
+/node_modules
+/dist
+/pkg
+
+*.swo
+*.swp
+**/*.rs.bk
+Cargo.lock
+package-lock.json
